@@ -1,0 +1,8 @@
+{
+    "log": {
+	"properties": {
+	    "start": { "type": "date", "format": "yyyy-MM-dd HH:mm:ss Z" },
+	    "end": { "type": "date", "format": "yyyy-MM-dd HH:mm:ss Z" }
+	}
+    }
+}
